@@ -1,0 +1,49 @@
+Here is the full course criteria for **MAT 2306 - Operations Research I**, followed by a short action plan.
+
+##  MAT 2306 - Operations Research I Criteria
+
+This course is focused on using mathematical techniques to optimize decision-making and resource allocation.
+
+### I. Introduction and Foundations
+* Introduction to Operations Research (OR): Understand the history, scope, and process of OR.
+* OR Models: Differentiate between Probabilistic and Deterministic Operations Research models.
+
+---
+
+### II. Convex Analysis (Theoretical Basis)
+* Sets and Combinations: Master the concepts of Convex combinations and Convex sets.
+* Geometry: Understand Extreme points of a convex set, Convex polyhedron, Hyper planes, Half-spaces, and polytopes.
+* Functions: Define and analyze Convex functions.
+
+---
+
+### III. Linear Programming (LP)
+* Formulation: Be able to perform the Mathematical formulation of the LP problem (Objective function, constraints, non-negativity).
+* Two-Dimensional LP: Solve the LP problem in two-dimensional space using Graphical solution methods.
+* General LP: Understand the structure of the General LP problem.
+
+---
+
+### IV. The Simplex Method (Core Solution Technique)
+* Algorithms: Master the standard Simplex algorithm.
+* Variations: Apply the Two-phase simplex algorithm and the Revised simplex algorithm.
+* Special Variables: Handle LP problems with unrestricted variables and LP problems with bounded variables.
+
+---
+
+### V. Duality and Special Problems
+* Duality Theory: Understand Duality in LP problems and the Duality theorems.
+* Dual Simplex: Apply the Dual simplex algorithm.
+* Applications: Master the formulation and solution of Special types of LP problems: the Transportation problem and the Assignment problem.
+
+---
+
+### VI. Computer Practical
+* Software: Gain an Introduction to optimization software and learn to use Excel Solver in problem solving.
+
+##  Action Plan: Short Description to Follow
+1.  Formulation: Practice converting real-world scenarios into Mathematical formulation of LP problems.
+2.  Simplex Mastery: Practice all variants of the Simplex algorithm (Standard, Two-phase, Revised) until proficient in algebraic solution.
+3.  Duality Concept: Understand and apply Duality theorems (e.g. strong duality, complementary slackness).
+4.  Special Cases: Learn the unique structures and solution methods for the Transportation and Assignment problems.
+5.  Software: Know how to use Excel Solver to verify your hand-calculated solutions.
