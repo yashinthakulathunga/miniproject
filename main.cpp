@@ -4,8 +4,10 @@
 #include <string>
 #include <vector>
 using namespace std;
-//hello
+
+//hello yashinthayou can always doing anything. try again dont fail. 
 // ---------------- Base Abstract Class (Abstraction) ----------------
+
 class Entity {
 public:
     virtual void display(ofstream &out) const = 0; // Pure virtual function
