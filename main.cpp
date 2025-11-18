@@ -4,7 +4,7 @@
 #include <string>
 #include <vector>
 using namespace std;
-
+//hello
 // ---------------- Base Abstract Class (Abstraction) ----------------
 class Entity {
 public:
@@ -203,3 +203,4 @@ int main() {
     cout << "\n✅ Results written to `yash.txt` successfully!\n";
     return 0;
 }
+
